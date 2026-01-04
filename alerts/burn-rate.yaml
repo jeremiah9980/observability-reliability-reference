@@ -1,0 +1,6 @@
+groups:
+- name: sre-burn-rate-example
+  rules:
+  - alert: HighErrorRate
+    expr: vector(0)
+    for: 10m

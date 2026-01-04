@@ -1,3 +1,3 @@
-# observability-reliability-reference
+# Observability & Reliability Reference (SRE)
 
-Observability reference repo.
+Enterprise-safe reference repository demonstrating observability, alerting, SLI/SLO concepts, and incident response practices. All content is sanitized and non-proprietary.
